@@ -1,5 +1,4 @@
 # World
-
 This project is to showcase my SQL skills.
 
 ----
