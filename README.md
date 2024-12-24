@@ -8,7 +8,7 @@ This dataset was obtained from mySQL workbench and I found it useful to analyse 
 
 Listed below are the datasets used in this project:
 
-* [city](https://github.com/Farouk-Muda/World/blob/main/city.csv) :The City dataset contains thousands of rows and includes the following columns:
+[CITY](https://github.com/Farouk-Muda/World/blob/main/city.csv) :The city dataset contains thousands of rows and includes the following columns:
 - ID: A unique identifier for each city.
 - Name: The name of the city.
 - CountryCode: The code representing the country of the city.
@@ -16,7 +16,7 @@ Listed below are the datasets used in this project:
 - Population: The population count of the city.
 
 
-* [country](https://github.com/Farouk-Muda/World/blob/main/country.csv) :The Country dataset contains 239 rows and provides detailed information about countries with the following columns:
+[COUNTRY](https://github.com/Farouk-Muda/World/blob/main/country.csv) :The country dataset contains 239 rows and provides detailed information about countries with the following columns:
 - Code: A unique country code.
 - Name: The country's name.
 - Continent: The continent where the country is located.
@@ -34,7 +34,7 @@ Listed below are the datasets used in this project:
 - Code2: An alternate two-character country code
 
   
-* [countrylanguage](https://github.com/Farouk-Muda/World/blob/main/countrylanguage.csv)
+[COUNTRYLANGUAGE](https://github.com/Farouk-Muda/World/blob/main/countrylanguage.csv)
 
 To analyze the data efficiently in Python, I integrated SQL functionality into Jupyter Notebook using the *ipython-sql* and *sqlalchemy libraries*.
 
